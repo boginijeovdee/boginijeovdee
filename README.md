@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Bogi!
-- 👀 I’m interested in custom rom and html development.
-- 🌱 I’m currently learning how to develop a custom rom
-- 😄 Pronouns: He/Him/His
+- 👋 hi, i’m bogi!
+- 👀 i’m interested in porting custom roms and random tech stuff!
+- 😄 pronouns: he/him
